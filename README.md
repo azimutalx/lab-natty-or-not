@@ -43,7 +43,7 @@ Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 🚀 Resultados
 
-- Ao final gerou um video que estou aperfeiçoando e você pode ver uma [Preview]()
+- Ao final gerou um video que estou aperfeiçoando e você pode ver uma [Preview](https://github.com/azimutalx/lab-natty-or-not/tree/main/output)
 
 ## 👨‍💻 Expert
 
